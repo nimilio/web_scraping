@@ -2,7 +2,7 @@
 Two simple web scraping scripts for twitter and wikipedia
 
 
-**Twitter**
+***Twitter***
 
 
 The twitter_query.py consists mainly of:
@@ -38,7 +38,7 @@ The emojis of the tweets are printed, but retweets and replies not. If an image 
 
 
 
-**Wikipedia**
+***Wikipedia***
 
 
 
